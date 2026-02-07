@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>My Portal</title>
+  </head>
+  <body>
+    <center>
+    <h1>My Portal</h1>
+    <hr/>
+    <b>
+      <a href="index.html">Home</a> |
+      <a href="page1.html">About us</a> |
+      <a href="page2.html">Cources</a> |
+    </b>
+    </center>
+    <br/><b/><b/>
+    <center>
+    <h2>About us</h2>
+    </center>
+    <p>Lorem ipsum dolor sit amet, 
+    consectetur adipiscing elit. Sed do 
+    eiusmod tempor incididunt ut labore
+    et dolore magna aliqua.
+     Ut enim ad minim veniam,
+     quis nostrud exercitation ullamco laboris nisi
+     ut aliquip ex ea commodo consequat.
+     Duis aute irure dolor in reprehenderit 
+     in voluptate velit esse cillum dolore eu
+     fugiat nulla pariatur.
+     Excepteur sint occaecat cupidatat non proident,
+     sunt in culpa qui officia deserunt mollit anim 
+     id est laborum</p>
+     <center>
+       <a>+91 80195 00201</a>
+     </center>
+  </body>
+  
+ 
+</html>
